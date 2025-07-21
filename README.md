@@ -111,13 +111,7 @@ All dependencies are listed in `requirements.txt`.
 
 ## Known Limitations
 
-- Designed for right-hand use by default (can be adapted).
-- Only supports one hand at a time.
 - May require calibration for different lighting/camera setups.
-
-## License
-
-MIT License
 
 ---
 
